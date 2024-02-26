@@ -5,3 +5,4 @@ This desktop application was developed with the intention of assisting individua
 Key features of the application include volume monitoring to prevent exceeding harmful levels, automated transition to speaker output upon headphone usage expiration, among others. The software is programmed in Python 3.6 and utilizes the PyQt5 toolkit for interface design. Additionally, it incorporates VolumeSoundView, a tool developed by Nirsoft.
 
 This app was created for Nationala InfoEducatie 2020 in just three days.
+Link to InfoEducatie: https://community.infoeducatie.ro/t/soundguard-utilitar-braila-lucrari-2020-nationala/5311
